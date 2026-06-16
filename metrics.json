@@ -1,0 +1,8 @@
+{
+  "baseline_precision": 0.58,
+  "baseline_recall": 0.52,
+  "baseline_f1": 0.55,
+  "champion_precision": 0.76,
+  "champion_recall": 0.82,
+  "champion_f1": 0.79
+}
